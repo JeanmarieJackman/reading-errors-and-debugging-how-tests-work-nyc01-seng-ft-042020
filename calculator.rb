@@ -1,4 +1,4 @@
 # Add your variables here
-first_number = (num)
-second_number + (num2)
+first_number = 1
+second_number + 2
 puts #{num1} + #{num2}
